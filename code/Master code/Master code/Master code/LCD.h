@@ -1,8 +1,8 @@
 /*
  * LCD.h
  *
- * Created: 2/23/2018 4:36:45 PM
- *  Author: Mohamed Zaghlol
+ * Created: 9/20/2019 4:36:45 PM
+ * Author: Mostafa Amr & Mohamed Zaghlol
  */ 
 
 #ifndef LCD_H_

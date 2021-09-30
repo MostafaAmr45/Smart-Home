@@ -1,3 +1,10 @@
+/*
+ * main_config.h
+ *
+ * Created: 11/12/2019 9:58:56 PM
+ * Author: Mostafa Amr & Mohamed Zaghlol
+ */ 
+
 #ifndef MAIN_CONFIG_H_
 #define MAIN_CONFIG_H_
 

@@ -1,3 +1,10 @@
+/*
+ * main.h
+ *
+ * Created: 11/12/2019 10:01:56 PM
+ * Author: Mostafa Amr & Mohamed Zaghlol
+ */ 
+
 #include "main_config.h"
 #include "LCD.h"
 #include "EEPROM.h"

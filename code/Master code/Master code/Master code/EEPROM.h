@@ -1,9 +1,9 @@
 /*
  * EEPROM.h
  *
- *  Created on: Apr 12, 2018
- *      Author: User
- */
+ * Created: 10/12/2019 9:53:50 PM
+ * Author: Mostafa Amr & Mohamed Zaghlol
+ */ 
 
 #ifndef HEADERS_EEPROM_H_
 #define HEADERS_EEPROM_H_
@@ -14,7 +14,7 @@
 	Function Name        : EEPROM_ui8ReadByteFromAddress
 	Function Returns     : uint8
 	Function Arguments   : const uint16 uiAddress
-	Function Description :  Read one byte from the given  address.
+	Function Description : Read one byte from the given  address.
 */
 uint8 EEPROM_ui8ReadByteFromAddress(const uint16 u16Address);
 

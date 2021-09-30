@@ -1,16 +1,16 @@
 /*
  * DIO.h
  *
- * Created: 2/9/2018 4:46:30 PM
- *  Author: Mohamed Zaghlol
+ * Created: 8/9/2019 4:46:30 PM
+ *  Author: Mostafa Amr & Mohamed Zaghlol
  */ 
 
 
 #ifndef DIO_H_
 #define DIO_H_
-#define F_CPU 8000000ul
+#define F_CPU 8000000UL
 #include <util/delay.h>
-#include "DIO_Slave_cfg.h"
+#include "DIO_config_master.h"
 #include "STD_Types.h"
 
 /*

@@ -1,8 +1,8 @@
 /*
  * ADC_driver.h
  *
- * Created: 3/3/2018 5:00:21 PM
- *  Author: Mohamed Zaghlol
+ * Created: 10/3/2019 5:00:21 PM
+ *  Author: Mostafa Amr & Mohamed Zaghlol
  */ 
 
 

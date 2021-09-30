@@ -1,8 +1,8 @@
 /*
  * DIO_Slave_cfg.h
  *
- * Created: 4/25/2018 12:49:18 PM
- *  Author: Mohamed Zaghlol
+ * Created: 11/14/2019 12:49:18 PM
+ *  Author: Mostafa Amr & Mohamed Zaghlol
  */ 
 
 

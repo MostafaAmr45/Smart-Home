@@ -1,8 +1,8 @@
 /*
 * LED.c
 *
-* Created: 2/9/2018 7:16:44 PM
-*  Author: Mohamed Zaghlol
+* Created: 9/2/2019 7:16:44 PM
+* Author: Mostafa Amr & Mohamed Zaghlol
 */
 #include "LED.h"
 void LED_vInit(uint8 portname,uint8 pinnumber)

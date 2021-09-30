@@ -1,3 +1,10 @@
+/*
+ * main.c
+ *
+ * Created: 11/14/2019 12:47:55 PM
+ *  Author: Mostafa Amr & Mohamed Zaghlol
+ */ 
+
 #include "SPI.h"
 #include "STD_MESSAGES.h"
 #include "DIO.h"

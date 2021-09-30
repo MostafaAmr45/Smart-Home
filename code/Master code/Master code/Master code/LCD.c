@@ -1,8 +1,8 @@
 /*
  * LCD.c
  *
- * Created: 2/23/2018 4:38:26 PM
- *  Author: Mohamed Zaghlol
+ * Created: 9/20/2019 4:38:26 PM
+ * Author: Mostafa Amr & Mohamed Zaghlol
  */ 
 
 static void send_falling_edge(void); //prototype of the private function

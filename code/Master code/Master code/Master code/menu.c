@@ -1,3 +1,10 @@
+/*
+ * menu.c
+ *
+ * Created: 11/12/2019 9:53:50 PM
+ * Author: Mostafa Amr & Mohamed Zaghlol
+ */ 
+
 #include "menu.h"
 
 extern volatile uint16 session_counter;//Stores the session time

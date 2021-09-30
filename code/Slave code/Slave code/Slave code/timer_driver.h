@@ -1,8 +1,8 @@
 /*
  * timer_driver.h
  *
- * Created: 3/2/2018 4:45:10 PM
- *  Author: Mohamed Zaghlol
+ * Created: 10/25/2019 4:45:10 PM
+ *  Author: Mostafa Amr & Mohamed Zaghlol
  */
 
 #ifndef TIMER_DRIVER_H_
